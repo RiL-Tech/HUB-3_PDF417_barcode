@@ -4,5 +4,5 @@ This script generates a HUB-3 PDF417 compliant barcode for banking purposes in C
 # Usage
 Replace the values in the `data_to_encode` variable with the required information and run the script:
 ```bash
-python3 generate_hub3.py
+python3 generate_barcode.py
 ```
